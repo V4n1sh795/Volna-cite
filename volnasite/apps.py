@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class VolnarenderConfig(AppConfig):
+class VolnasiteConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'volnarender'
+    name = 'volnasite'
